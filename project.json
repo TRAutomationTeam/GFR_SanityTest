@@ -17,7 +17,7 @@
     "Sanity_GFR_IndexTreeValidation": "[1.0.5]",
     "Sanity_GFRLogin": "[1.10.19]",
     "Sanity_SubmissionWizard": "[1.0.8]",
-    "SanityGFR_BinderCreation": "[1.1.3]",
+    "SanityGFR_BinderCreation": "[1.1.5]",
     "SanityReport_GenerateOutput": "[1.0.4]",
     "SanityReport_ReadTemplate": "[1.0.7]",
     "SanityReport_TCFiltering": "[1.0.2]",
@@ -46,7 +46,7 @@
   ],
   "schemaVersion": "4.0",
   "studioVersion": "25.0.157.0",
-  "projectVersion": "1.0.28",
+  "projectVersion": "1.0.29",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
